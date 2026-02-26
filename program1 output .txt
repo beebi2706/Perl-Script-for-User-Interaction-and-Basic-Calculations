@@ -1,0 +1,12 @@
+Enter your name:
+Anu
+Hello Anu
+first number:
+1
+Second number:
+2
+The sum of the two numbers is: 3
+The multiple lines(print stop to finish):
+The multiplication of the two numbers is: 2
+The division of the two numbers is: 0.5
+The subtraction of the two numbers is: -1
