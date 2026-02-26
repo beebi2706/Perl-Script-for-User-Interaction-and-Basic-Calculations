@@ -1,0 +1,2 @@
+# Perl-Script-for-User-Interaction-and-Basic-Calculations
+ This Perl script demonstrates basic user interaction through the command line. It accepts a user's name and two numeric inputs, then performs fundamental arithmetic operations including addition, subtraction, multiplication, and division. This shows the use of chomp to remove newline characters, and formatted output using the say function.
